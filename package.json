@@ -1,0 +1,22 @@
+{
+  "name": "jazz-scribbletunes",
+  "version": "1.0.0",
+  "description": "A test for jazz using scribletunes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardDecaff/jazz-scribbletunes.git"
+  },
+  "author": "RicharDecaff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardDecaff/jazz-scribbletunes/issues"
+  },
+  "homepage": "https://github.com/RichardDecaff/jazz-scribbletunes#readme",
+  "dependencies": {
+    "scribbletune": "^1.0.0-alpha.1"
+  }
+}
